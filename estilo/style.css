@@ -1,0 +1,13 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@400;700&family=Playfair+Display:wght@400;600&display=swap');
+
+
+
+h1 {
+    font-size: 72px;
+    background: linear-gradient(
+        270deg, #3f5efb, #fc466b
+        );
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+}
